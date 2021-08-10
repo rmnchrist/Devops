@@ -1,2 +1,2 @@
-This is my new GIT
+This is my new GIT for my class
 
